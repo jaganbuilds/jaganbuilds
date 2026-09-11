@@ -1,7 +1,7 @@
 # 💫 Hi, I'm Jagan 👋:
 <p align="center">
 
-🤖 Robotics & Automatio | 🧠 AI Engineer | 🐍 Python | 🔗 RAG | 👁️ Computer Vision | 🚀 Generative AI
+🤖 Robotics & Automation | 🧠 AI Engineer | 🐍 Python | 🔗 RAG | 👁️ Computer Vision | 🚀 Generative AI
 
 </p>
 
